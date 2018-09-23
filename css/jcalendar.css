@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+/* JCalendar */
+a{color:#CCCCCC}
+.jcalendar_link th{
+	font-family:"SolaimanLipi";
+	font-weight:normal;
+	text-align:center;
+	background:#F0F0F0;
+	width:14%;
+	height:20px;
+	font-size:14px;
+	color:#111;
+	padding:3px;
+}
+.jcalendar_link td{
+	font-family:"SolaimanLipi";
+	font-size:13px;
+	background-color:#F0F0F0;
+	text-align:center;
+	color:#474747;
+	padding:3px 2px 3px 2px;
+}
+#unselected_date{
+	background:#9D9D9D;
+	padding:3px 2px 3px 2px;
+	color:#fff;
+}
+#unpublish_date{
+	background-color:#E0E0E0;
+	color:#ccc;
+	padding:3px 2px 3px 2px;
+}	
+#selected_date{
+	background:#414141;		
+	color:#fff;
+	padding:3px 2px 3px 2px;
+}	
+/**/
+
